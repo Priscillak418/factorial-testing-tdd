@@ -1,3 +1,8 @@
+/*
+Group members
+Kayegi Priscilla
+Malinga Robert */
+
 module.exports = {
      computeFactorial:(n) => {
         //base case
